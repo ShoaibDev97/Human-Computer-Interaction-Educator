@@ -1,0 +1,63 @@
+C:\Users\Wali\source\repos\HCI_Educator\bin\Debug\HCI_Educator.exe.config
+C:\Users\Wali\source\repos\HCI_Educator\bin\Debug\HCI_Educator.exe
+C:\Users\Wali\source\repos\HCI_Educator\bin\Debug\HCI_Educator.pdb
+C:\Users\Wali\source\repos\HCI_Educator\bin\Debug\MetroFramework.Design.dll
+C:\Users\Wali\source\repos\HCI_Educator\bin\Debug\MetroFramework.dll
+C:\Users\Wali\source\repos\HCI_Educator\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.SplashScreen.resources
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.Properties.Resources.resources
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.csproj.GenerateResource.cache
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.csproj.CoreCompileInputs.cache
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.csproj.CopyComplete
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.exe
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.pdb
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.UserMode.resources
+C:\Users\Wali\source\repos\HCI_Educator\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.UserSignup.resources
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.AdminLogin.resources
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.UserSignin.resources
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.AdminForgotPassword.resources
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.DummyEmail.resources
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.DummyMobileMessage.resources
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.UserForgotPassword.resources
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.TwoStepVerification.resources
+C:\Users\Wali\source\repos\HCI_Educator\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.SecurityCode.resources
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.MainMenu.resources
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.UpdatePassword.resources
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.Weather.resources
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.csprojAssemblyReference.cache
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.PhoneDirectory.resources
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.ViewContact.resources
+C:\Users\Wali\source\repos\HCI_Educator\obj\Debug\HCI_Educator.ESDContacts.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\bin\Debug\HCI_Educator.exe.config
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\bin\Debug\HCI_Educator.exe
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\bin\Debug\HCI_Educator.pdb
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\bin\Debug\MessagingToolkit.QRCode.dll
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\bin\Debug\MetroFramework.Design.dll
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\bin\Debug\MetroFramework.dll
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\bin\Debug\MetroFramework.Fonts.dll
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.csprojAssemblyReference.cache
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.AdminForgotPassword.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.AdminLogin.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.DummyEmail.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.DummyMobileMessage.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.ViewContact.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.MainMenu.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.PhoneDirectory.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.SecurityCode.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.SplashScreen.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.Properties.Resources.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.TwoStepVerification.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.UpdatePassword.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.UserForgotPassword.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.UserMode.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.UserSignin.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.UserSignup.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.ESDContacts.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.Weather.resources
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.csproj.GenerateResource.cache
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.csproj.CoreCompileInputs.cache
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.csproj.CopyComplete
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.exe
+G:\Website Projects And Applications\C Sharp Projects\HCI_Educator\obj\Debug\HCI_Educator.pdb
